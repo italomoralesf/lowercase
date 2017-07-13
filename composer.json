@@ -9,7 +9,7 @@
             "email": "i@italomoralesf.com"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {"italomoralesf\\LowerCase\\": "src/"}
