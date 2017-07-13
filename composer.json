@@ -1,0 +1,17 @@
+{
+    "name": "italomoralesf/lowercase",
+    "description": "Proyecto para hacer los String de forma minuscula",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "italomoralesf",
+            "email": "i@italomoralesf.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload": {
+        "psr-4": {"italomoralesf\\LowerCase\\": "src/"}
+    },
+}
